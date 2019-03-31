@@ -21,7 +21,7 @@ $ cp -r f110-fall2018-skeletons f110_ws/src
 
 You will need to install these with apt-get in order for the car and Gazebo simulator to work.
 ```bash
-$ sudo apt-get install ros-kinetic-ros-control ros-kinetic-ros-controllers ros-kinetic-gazebo-ros-control ros-kinetic-ackermann-msgs ros-kinetic-joy
+$ sudo apt-get install ros-kinetic-ros-control ros-kinetic-ros-controllers ros-kinetic-gazebo-ros-control ros-kinetic-ackermann-msgs ros-kinetic-joy ros-kinetic-driver-base
 ```
 
 Make all the Python scripts executable (by default they are set to non-executable when downloaded from Github, or anywhere for that matter)
